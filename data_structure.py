@@ -13,6 +13,7 @@ for line in fh:
         # desde el archivo
         sum = sum + sld
         print(sum)
+print()
 print('Average is:', sum)
 
 # Cuando se trabajan con archivos siempre cerrarlo al final de usarlo
